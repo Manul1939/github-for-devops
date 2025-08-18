@@ -1,0 +1,15 @@
+ git init
+ git status
+ git add "filename"
+ git commit -m "added"
+ rm testing.py (remove file)
+ git restore
+
+ git remote add origin https://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@github.com/Manul1939/github-for-devops.git  
+ git remote -v (status)
+ git status
+
+ git remote set-url origin https://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@github.com/Manul1939/github-for-devops.git   
+ clear
+ git remote-v
+ git push orign master
