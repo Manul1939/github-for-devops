@@ -12,6 +12,16 @@
  git remote set-url origin https://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@github.com/Manul1939/github-for-devops.git   
  clear
  git remote-v
- git push orign master
+ git push orign master(to push the code to github)
+ git pull origin master (to pull the code form github)
 
-some new change
+ git branch (to see the no. of branches)
+ git branch 'branch name' to create branch
+ (git switch / git checkout) 'branch name' (to switch branch)
+
+ git log (to see the logs of latest commit and position of head)
+ git oog --oneline (ti see the logs in one line)
+
+git pull (to pull branch changes to local)
+git fetch (fetches branches from github to local)
+
